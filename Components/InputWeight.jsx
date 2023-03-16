@@ -1,9 +1,7 @@
 import { Component } from "react"
 
-export default class InputWeigh extends Component(){
-    constructor(){
-        super()
-    }
+export default class InputWeigh extends Component{
+    
     render(){
         return (
             <>

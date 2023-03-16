@@ -1,6 +1,6 @@
 import { Component } from "react"
 
-export default class InputHeigh extends Component(){
+export default class InputHeigh extends Component{
     render(){
         return (
             <>
